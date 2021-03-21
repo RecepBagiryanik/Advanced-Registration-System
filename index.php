@@ -23,7 +23,7 @@ error_reporting(0);
 			echo "<center>";
 			echo "Hi " . $_SESSION["username"];
 			echo "<br>";
-			echo "<a href='logout.php'>Çıkış Yap</a></center>";
+			echo "<a href='logout.php'>Logout</a></center>";
 		}
 		?>
 		<?php 
